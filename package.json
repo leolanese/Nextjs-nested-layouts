@@ -1,0 +1,31 @@
+{
+  "name": "Nextjs-nested-layouts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "@emotion/cache": "^11.10.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "add": "^2.0.6",
+    "next": "^9.0.5",
+    "or": "^0.2.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "yarn": "^1.22.19"
+  }
+}
